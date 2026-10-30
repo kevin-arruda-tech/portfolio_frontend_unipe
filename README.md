@@ -1,7 +1,7 @@
 <h1 align="center">💻 Meu Portfólio</h1>
 
 <p align="center">
-  <img src="img/foto.png" alt="Kevin Arruda" width="160">
+  <img src="portfolio/img/foto.png" alt="Kevin Arruda" width="160">
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## 👋 Sobre o projeto
 
-Oi, eu sou o Kevin! Esse é o meu site de portfólio, que fiz na disciplina para me apresentar e mostrar um pouco do que eu já sei fazer.
+Oi, eu sou o Kevin! Esse repositório é a atividade 09 da matéria de Front-end da UNIPE: o meu site de portfólio, que fiz para me apresentar e mostrar um pouco do que eu já sei fazer.
 
 Eu estou no 2º semestre de Análise e Desenvolvimento de Sistemas (ADS) e quero seguir na área de back-end com Java e Spring Boot. No site eu coloquei quem eu sou, minhas habilidades, alguns projetos e um formulário de contato.
 
@@ -33,21 +33,24 @@ O visual é escuro com vermelho de destaque e funciona bem no computador e no ce
 ## 📁 Como o projeto está organizado
 
 ```
-portfolio/
-├── index.html
-├── style.css
+portfolio_frontend_unipe/
 ├── README.md
-└── img/
-    └── foto.png
+└── portfolio/
+    ├── index.html
+    ├── style.css
+    ├── README.md
+    └── img/
+        ├── README.md
+        └── foto.png
 ```
 
 ## ▶️ Como abrir
 
 1. Baixe ou clone o repositório:
    ```
-   git clone https://github.com/kevin-arruda-dev/portfolio.git
+   git clone https://github.com/kevin-arruda-tech/portfolio_frontend_unipe.git
    ```
-2. Abra o arquivo `index.html` no navegador.
+2. Entre na pasta `portfolio` e abra o arquivo `index.html` no navegador.
 
 Precisa estar conectado à internet, porque o Bootstrap e a fonte vêm da web.
 
@@ -55,4 +58,4 @@ Precisa estar conectado à internet, porque o Bootstrap e a fonte vêm da web.
 
 - 📧 kevin.arruda.10@icloud.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/kevin-arruda-5441a6432/)
-- 🐙 [GitHub](https://github.com/kevin-arruda-dev)
+- 🐙 [GitHub](https://github.com/kevin-arruda-tech)
