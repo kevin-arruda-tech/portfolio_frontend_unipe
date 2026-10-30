@@ -52,8 +52,6 @@ portfolio_frontend_unipe/
    ```
 2. Entre na pasta `portfolio` e abra o arquivo `index.html` no navegador.
 
-Precisa estar conectado à internet, porque o Bootstrap e a fonte vêm da web.
-
 ## 📬 Contato
 
 - 📧 kevin.arruda.10@icloud.com
